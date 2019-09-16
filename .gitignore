@@ -1,0 +1,6 @@
+node_modules
+dist
+.cache
+small-generator.code-workspace
+package-*.json
+src/components/DesaCard.jsx
